@@ -1,0 +1,146 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*~
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains (IntelliJ, PyCharm, etc.)
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Java
+*.class
+
+# Go
+bin/
+
+# Build directories
+/dist/
+/build/
+
+# Maven
+/target/
+
+/build/
+
+# Environment variables
+.env
+
+# Secrets
+*.key
+*.pem
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# vuepress build output
+.vuepress/dist/
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# vercel now
+.now
+
+# Output of 'npm pack'
+*.tgz
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Test coverage reports
+coverage/
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Bower dependency directory (https://bower.io/)
+bower_components/
+
+# node-waf configuration
+.lock-wscript
+
+# Dart Editor specific file
+.buildlog
+.dart_tool/
+.buildlog
+
+# IntelliJ
+out/
+
+# WebStorm
+.idea/
+
+# Vim temporary files
+*.swp
+
+# Temporary files
+*.temp
+*.tmp
+
+# Output of 'yarn pack'
+*.tgz
+EOL
